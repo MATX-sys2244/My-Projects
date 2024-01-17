@@ -1,2 +1,2 @@
 codes in CSS, HTML, JS
-Is a one calculate for IMC
+This a calculator for calculating the IMC
